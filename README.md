@@ -15,8 +15,8 @@ Constraints
 Along with opening (() and closing ()) parenthesis, input may contain any valid ASCII characters. Furthermore, the input string may be empty and/or not contain any parentheses at all. Do not treat other forms of brackets as parentheses (e.g. [], {}, <>).  
 
 
-##find_it
-###Given an array of integers, find the one that appears an odd number of times.
+## find_it
+### Given an array of integers, find the one that appears an odd number of times.
 
 There will always be only one integer that appears an odd number of times.
 
